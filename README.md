@@ -8,24 +8,20 @@ A simple Node.js application that simulates a train ticket Allocation.
 
 1.Clone the repository:
 
-```bash
 git clone https://github.com/Akash-san/Train-Seat-Allocation.git
 
 Navigate to the project directory:
 
-```bash
 cd train-seat-allocation
 
 2.Install dependencies:
 
-```bash
 npm install
 
 ### Running the Application
 
 Start the Node.js server:
 
-```bash
 node index.js
 
 The server will be running at http://localhost:4000.
@@ -37,7 +33,7 @@ The server will be running at http://localhost:4000.
 Create a POST request in Postman to http://localhost:4000/purchase.
 Set the body as raw JSON and provide the purchase details.
 
-```json
+json
 {
   "from": "London",
   "to": "France",
