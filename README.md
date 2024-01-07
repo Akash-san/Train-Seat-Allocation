@@ -4,9 +4,6 @@ A simple Node.js application that simulates a train ticket Allocation.
 
 ## Getting Started
 
-### Prerequisites
-
-Node.js: https://nodejs.org/: https://nodejs.org/
 ### Installation
 
 1.Clone the repository:
